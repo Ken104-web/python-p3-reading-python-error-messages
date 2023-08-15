@@ -1,3 +1,5 @@
-#!/usr/bin/env python3
-
-poor_syntax = 2 * #
+#!/usr/bin/env python
+num1 = 2
+num2 = 2
+sum = num1 + num2
+print(sum)
